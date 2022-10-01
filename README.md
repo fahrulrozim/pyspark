@@ -19,6 +19,7 @@ Before we begin with pyspark, we have to install Java 8 or later in your compute
 If it's your first time in installing java, then you have to set up `environment path` first.
 
 Set your Java path with this:
+
 `JAVA_HOME = C:\Program Files\Java\jdk1.8.0_201`
 
 `PATH = %PATH%;C:\Program Files\Java\jdk1.8.0_201\bin`
